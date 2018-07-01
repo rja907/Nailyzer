@@ -1,4 +1,4 @@
-Nailyzer
+# Nailyzer
 ### Your health in your own hands!
 
 > One-of-a-kind software that can be used as a Self-diagnostic tool without the help of a medical professional. Using Image Processing techniques, our algorithm extracts features based on color textures and irregularities of input image and outputs the detected symptoms of various
