@@ -1,27 +1,16 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Creative](http://startbootstrap.com/template-overviews/creative/)
+Nailyzer
+### Your health in your own hands!
 
-[Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+> One-of-a-kind software that can be used as a Self-diagnostic tool without the help of a medical professional. Using Image Processing techniques, our algorithm extracts features based on color textures and irregularities of input image and outputs the detected symptoms of various
 
-## Getting Started
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/creative/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-creative.git`
-* Fork the repo
 
-## Bugs and Issues
+The users are required to upload images of their finger nails to the webserver. The webserver uses this uploaded files as input to the disease detection software.
+The software uses digital image processing algorithms to analyse the images of nails of users. Machine Learning is used to further classify the dataset image on the basis of texture and color of the nails.
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-creative/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/creative/).
 
-## Creator
+As a nail is unique to every person, there are many body organs such as eyes and tongue whose images can be used to determine symptons of even a fatal disease in its early stages.
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-creative/blob/gh-pages/LICENSE) license.
+## Requirements ##
+1) Octave or Matlab
+2) Nail Image Dataset ( You can use your own dataset to train as well )
